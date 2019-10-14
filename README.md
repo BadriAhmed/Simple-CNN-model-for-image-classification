@@ -1,4 +1,4 @@
-# A simple image classification using Conventional Neural Networks
+# A simple image classification using Convolutional Neural Network
 
 A CNN classification model on a simple image classification task using keras and OpenCV
 
